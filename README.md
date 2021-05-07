@@ -4,6 +4,8 @@ Dump of TCW ScienceBot (Swiss Army knife for Discord Scientists)
 Okay first a DISCLAIMER:
 I'm not a programmer nor a github user, the code DOES (well should) work, but it has a billion bugs, will have a billion bugs.
 
+Also i'm very sorry for any slurs or inproper language, I make bots on streams sometimes and I eneter all kinda crap in it, later i foorgot to change...
+
 It IS used for TCW Sciencebot with you can find here https://discordbots.thechemicalworkshop.com/sciencebot/
 The files will be cleaned up/updated eventually
 
