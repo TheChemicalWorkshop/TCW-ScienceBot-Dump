@@ -1,0 +1,7 @@
+**Morse Code**
+[optional] <required> (info) \*premium 🠖example🠔 `output`
+
+@prefix@encryptmorse <string> (encrypts into morse code) (\*Sound File !)
+🠖@prefix@encryptmorse Made by Matti🠔
+	`MADE BY MATTI`
+	`-- .- -.. . | -... -.-- | -- .- - - .. | `

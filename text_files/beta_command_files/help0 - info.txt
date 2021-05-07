@@ -1,0 +1,13 @@
+**Beta disclaimer**
+
+Following commands or features may result in unwanted spam, pings or other behaviour
+(or they might just not work at all)
+
+
+
+they are probably very easy to bypass or break, feel acomplished i guess?
+
+
+	- @matti@
+	
+(p.s. you can disable them in @prefix@settings)

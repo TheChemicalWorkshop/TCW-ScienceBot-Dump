@@ -1,0 +1,6 @@
+**Nutrition**
+[optional] <required> (info) \*premium 🠖example🠔
+
+@prefix@foodinfo <foods> (looks up food for nutritional values) (food lenght max (200) (\*no limit) characters)
+🠖@prefix@foodinfo blueberries🠔
+🠖@prefix@foodinfo 100g blueberries, 2 avocados and 1g salt🠔

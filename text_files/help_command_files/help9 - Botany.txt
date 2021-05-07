@@ -1,0 +1,5 @@
+**Botany**
+[optional] <required> (info) *premium 🠖example🠔
+
+@prefix@searchplant <plant_name> (looks up plant for basic info)
+🠖@prefix@searchplant fern🠔

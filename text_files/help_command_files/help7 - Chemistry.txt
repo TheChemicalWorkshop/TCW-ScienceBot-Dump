@@ -1,0 +1,5 @@
+**Chemistry**
+[optional] <required> (info) -admin only 🠖example🠔
+
+@prefix@element <element_symbol> (displays element information)
+🠖@prefix@element Fe🠔

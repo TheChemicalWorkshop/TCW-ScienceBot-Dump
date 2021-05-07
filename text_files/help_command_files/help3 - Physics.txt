@@ -1,0 +1,5 @@
+**physics**
+[optional] <required> (info) -admin only 🠖example🠔
+
+@prefix@nm <wavelenght in nm> (displays color in RGB!)
+🠖@prefix@nm 505🠔

@@ -1,0 +1,10 @@
+**Elements**
+[optional] <required> (info) -admin only 🠖example🠔 `output`
+
+@prefix@isotope <element> (displays isotope info)
+🠖@prefix@isotope U🠔
+	`Uranium-233` :radioactive:
+	`Uranium-234` :radioactive: `(0.005%)`
+	`Uranium-235` :radioactive: `(0.72%)`
+	`Uranium-238` :radioactive: `(99.274%)`
+	`Uranium-236` :radioactive:

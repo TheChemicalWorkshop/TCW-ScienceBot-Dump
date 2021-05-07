@@ -1,0 +1,23 @@
+**Admin Commands and Info**
+[optional] <required> (info)
+
+@prefix@settings (opens settings help)
+
+This bot needs following permissions:
+- Manage Messages
+- Use External Emoji
+- Add Reactions
+- Attach Files
+- Embed Links
+- Send Messages
+
+For following reasons:
+- It edits messages deletes messages when nessecary (privacy/security)
+- It uses External Emojis, defalt ones suck
+- It adds and are removes reactions for help and other commands
+- It Attaches FIles/Pictures
+- It Embeds liks like ressources
+- It needs to resond to your commands
+
+if you have questions or conserns, contact me
+	- @matti@

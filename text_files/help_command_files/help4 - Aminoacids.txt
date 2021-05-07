@@ -1,0 +1,12 @@
+**Aminoacids**
+[optional] <required> (info) -admin only 🠖example🠔 `output`
+
+@prefix@listaminoacids (handy lookup table)
+
+@prefix@translateaminoacids <amino_acids> (converts short name to full name)
+🠖@prefix@translateaminoacids tyr pyl val trp🠔
+	`Tyrosine Pyrrolysine Valine Tryptophan`
+
+@prefix@decodegeneticcode <genetic_code> (rna/dna)
+🠖@prefix@decodegeneticcode UGAUGUAUUAGGGAAGAU🠔
+	`STP Cys Ile Arg Glu Asp`

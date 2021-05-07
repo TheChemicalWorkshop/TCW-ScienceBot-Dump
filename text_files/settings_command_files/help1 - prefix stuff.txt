@@ -1,0 +1,9 @@
+**Prefix settings**
+[optional] <required> (info) -admin
+
+@prefix@settings prefix <prefix>
+
+Example:
+@prefix@settings prefix !
+
+This changes the prefix to **!**

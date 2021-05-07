@@ -1,0 +1,10 @@
+**Beta enable**
+[optional] <required> (info) -admin
+
+@prefix@settings enable_beta <yes/no>
+
+Example:
+@prefix@enable_beta yes
+
+This enables beta functions 
+(they will be visible at the end of @prefix@help)

@@ -1,0 +1,31 @@
+**Morse Code - Explanation**
+----- ----- ----- INFO ----- ----- -----
+
+The length of a dot is 1 time unit.
+A dash is 3 time units.
+The space between symbols (dots and dashes) of the same letter is 1 time unit.
+The space between letters is 3 time units.
+The space between words is 7 time units.
+
+THIS MEANS:
+
+` ` (a space) = 3 units
+` | ` (space, pipe, space) = 7 units
+   (no space left or right) = 1 unit
+`.` = 1 unit
+`-` = 3 units
+
+
+EXAMPLE:
+
+PARIS = `.--. .- .-. .. ... | `
+
+To make things simple
+	(+ = space between words)
+	(\* = " | ")
+	
+therefore timings for PARIS would be:
+PARIS = `.--.+.-+.-.+..+...*`
+`.   -   -   . +`   `.   - +`   `.   -   . +`   `.   . +`   `.   .   . *`
+`1 1 3 1 3 1 1 3`   `1 1 3 3`   `1 1 3 1 1 3`   `1 1 1 3`   `1 1 1 1 1 7`
+

@@ -1,0 +1,13 @@
+**Minigame**
+[optional] <required> (info) -admin \*premium
+
+@prefix@minigame [difficulty] (minigame without points, default diff = normal)
+@prefix@ranked [difficulty]
+@prefix@leaderboard (lists leaderboard)
+@prefix@points [user] (checks points)
+@prefix@mercy (if your points are 0 or below, reset them back to 0)
+@prefix@transfer <user> <amount> (transfers coins to another user) (20% tax) (*15% tax)
+@prefix@shop <role_name> (buy a role, costs 100 for 1 week)
+
+@prefix@rolepurchasepermitted (shows if buying roles is enabled or not)
+-@prefix@togglerolepurchasing (toggles the role buying)

@@ -1,0 +1,17 @@
+**stuff**
+[optional] <required> (info) -admin \*premium 
+
+@prefix@food2 <food>
+(will be reworked)
+
+@prefix@search <chem>
+(will prob never make it out of here)
+
+@prefix@findcity <city>
+@prefix@cityinfo <cityid>
+(will be reworked and merged most likely?)
+
+@prefix@balance <chemstuff> (e.g. H + O = H2O)
+(i don't like it, will prob stay here forever untill I write a better one)
+
+

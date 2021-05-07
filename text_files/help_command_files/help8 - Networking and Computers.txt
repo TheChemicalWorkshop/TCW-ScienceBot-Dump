@@ -1,0 +1,17 @@
+**Networking and Computers**
+[optional] <required> (info) *premium 🠖example🠔 `output`
+
+@prefix@pingserver <ip> [count] (pings any server to get ping data) (max count 5 *100)
+🠖@prefix@pingserver google.com 5🠔
+
+@prefix@hosttoip <ip> (converts host to pointing ip)
+🠖@prefix@hosttoip google.com🠔
+	`172.217.22.238`
+	
+@prefix@gencolor <(R G B) or (hexcode)> (generates color)
+🠖@prefix@gencolor 7F00FF🠔
+🠖@prefix@gencolor 255 0 127🠔
+
+@prefix@css_color <css_color_name> (generates color (case/space insensitive))
+🠖@prefix@css_color Royal Blue🠔
+🠖@prefix@css_color aquamarine🠔

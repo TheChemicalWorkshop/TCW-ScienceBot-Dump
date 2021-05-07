@@ -1,0 +1,26 @@
+**Minigame explanation**
+st = sleeptime (time between each round)
+ps = possibilities (different anwsers you can choose from)
+rt = reaction_time (time for you to react with correct or not anwser)
+rd = rounds (number of rounds)
+mp = points_multipler (multiplies the points)
+
+@prefix@minigame (chemistry minigame, react the number/letter for the asked compound)
+@prefix@ranked (same as above, however you can win or loose points)
+
+@prefix@minigame difficulties (rd=1) (no points)
+	baby (st=1, ps=2 , rt=6)
+	easy (st=1, ps=3 , rt=5)
+	**normal (st=0.7, ps=5 , rt=3)**
+	hard (st=0.5, ps=8 , rt=2)
+	hardcore (st=0.3, ps=15 , rt=2.5)
+	insane (comming soon !)
+	quickfuck (st=0.3, ps=4 , rt=1.5)
+
+@prefix@ranked difficulties
+	easy (st=0.5, ps=7 , rt=3.5, rd=3, mp=0.5x)
+	**normal (st=0.5, ps=7 , rt=2.5, rd=5, mp=1x)**
+	hard (st=0.5, ps=7 , rt=2.5, rd=10, mp=2x)
+	quickfuck (st=0.5, ps=5 , rt=1.5, rd=3, mp=3x)
+	
+	
